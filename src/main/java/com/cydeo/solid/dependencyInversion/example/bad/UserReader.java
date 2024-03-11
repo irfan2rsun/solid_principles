@@ -1,4 +1,4 @@
-package com.cydeo.solid.dependencyInversion.bad;
+package com.cydeo.solid.dependencyInversion.example.bad;
 
 public class UserReader {
 
